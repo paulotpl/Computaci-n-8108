@@ -1,0 +1,46 @@
+\documentclass[12pt]{article}
+ \usepackage[utf8]{inputenc}
+  \usepackage[spanish]{babel}
+   \usepackage[usenames]{color}
+   
+\title{\textrm{Sip, este soy yo, seguramente te estás preguntando ¿cómo llegué aquí? Bueno, esta es mi historia.}}
+ \author{\textrm{\textbf{Pérez López Paulo Tristán}}}
+  \date{\textrm{12/08/2022}}
+
+\begin{document}
+
+\maketitle
+
+\chapter{\textbf{Auto biografía}}
+
+\section{\textit{Contexto}}
+
+\texttt{Mi historia comienza en un solitario viernes santo 9 de abril del año 2004. Día en el que por diversas razones la gente suele no salir, pero aparentemente yo fui la excepción. Digo aparentemenre porque realmente es mera fé la que sostiene el hecho que le da lugar y sentido a mi cumpleaños, ya que yo, así como la mayoría de humanos, no tengo real certeza de esto, ya que por lo menos en mi caso, el primer recuerdo perdido por las estanterias de mi memoria, es a la edad de tres años.
+Recuerdo que estaba en una fiesta organizada con el propósito de festejar mi cumpleaños número tres, por lo que habían rentado un salón de fiestas el cual tenía un ventanal enorme con vista a la calle.
+A partir de ahí, recuerdo muchas otras cosas, pero durante mi infancia no hay mucho más que rescatar, solamente considero como aspecto fundamental la abrazante felicidad que la envolvió.
+Durante toda mi primaria tomé clases en una escuela método Montessori, para después cursar mi secundaria un una institución llamada Logos. Ambas chicas pero grandes escuelas las cuales me proporcionaron maravillosas experiencias y conocimientos. Pero debido a diversas causas, al pasar a la preparatoria, opté por ingresar a un plantel de la unam. Tras una suficiente investigación, me decanté por el Colegio de Ciencias y Humanidades plantel Sur. En el cual llevé acabo el bachillerato, para así poder ingresar a la Facultad de Ciencias por medio del Pase Reglamentado.
+Con este inmecesario contexto, doy inicio a los incisos a cubrir por el formato de la biografía.}
+
+\section{\textit{Academia}}
+ \subsection{\textit{Pasado}}
+  \texttt{Así como lo resalté en el parrafo anterior, provengo del CCH Sur, el cuál francamente estaba realmente lejos de mi domicilio, ya que yo vivo en Iztapalapa, y el trayecto casi siempre superaba la hora de duración. Me valía de metro, microbús y camión para llegar a mi destino, pero la recompenza de un plantel alejado, silecioso, rodeado de naturaleza y con una tranquilizante inmencidad recomfortante, hacia que siempre valiera la pena el recorrido.}
+  
+  \subsection{\textit{Actualidad}}
+  \texttt{Hoy en día, me es mucho más facil llegar a mi escuela, solamente con el uso del mejor transporte chilango, el metro, puedo llegar de mi casa a la Facultad de Ciencias y viceversa con facilidad.}
+
+  \subsection{\textit{¿Por qué Física?}}
+  \texttt{Pues la respuesta a esto se remonta años atras en mi pasado, pasado en el cual ya mostraba interés por la ciencia. Personalmente considero que el espacio es suficientemente cautuvante como para dedicarle mi vida entera. Pero esta no es la razón por la que decidí estudiar Física, la razón de más peso, es que me fascina el concepto de la matematización del mundo, ya que por cliché que parezca, yo si soy de la idea de que las matemáticas son lo que más se acerca al idioma de Dios, si es que existiese, por lo que la Física es la disciplina que más se apega a la idea.
+  Francamente no tengo mucha idea de que haré después de terminar la carrera, solo sé que he elegido la opción correcta y solamente el incierto futuro dictará la causalidad de mi historia profesional.}
+
+  \section{\textit{Hobbies}}
+   \texttt{A lo largo de mi vida, he hecho muchas actividades, pero al ser únicamente dos las solicitadas, me veo obligado a reducirlas, no necesariamente por importancia ni por mayor agrado, sino por conveniencia cognitiva. Uno de mis pasatiempos o actividades favoritas, es la música, tanto escucharla, como crearla. años atrás aprendí a tocar la batería y la guitarra, pero en los últimos años de mi vida comencé a improvisar e interesarme por las batallas de Freestyle, por lo que a pesar de que actualmente no compito, me ha quedado el remanente de estarme imaginando freestyles en mi cabeza todo el tiempo.
+   Otra actividad que podría considerar un Hobbie, es el editar. En general, me gusta mucho el cine, la ciencia ficción, y primcipalmente las animaciones, pero algo que he hecho en repetidas ocasiones, es el editar, desde videos solicitados en la escuela, hasta videos cutremente amateur de Youtube, no es algo en lo que sea remotamente experimentado, pero es algo que me gusta hacer, y espero seguirlo haciendo en un  futuro.}
+
+   \section{\textit{Música Favorita}}
+   \texttt{Considero que la música es muy subjetiva, por lo que todos los generos, al menos los que son dignnos de ser catalogados como música, tienen su magia en determinados momentos. Pero al seleccionar unicamente dos, me quedo con el Blues, y por consecuente el Jazz, el cual me gusta por la sutileza de sus notas y la variedad de instrumentos con diversificados umbrales sonoros habitando dentro de el; y con el Rock Experimental, el cual es una mezcla variada de instrumentos y generos con una base rockera sobre la cual puede dejarse crecer la imaginación del autor o interprete. Ambos generos los esucho regularmente cuando tengo una actividad cognitivamente poco demandante, la cual requiere de un soudtrack digno del momento para evitar el aburrimiento.}
+
+   \section{\textit{Conclusión}}
+   \texttt{\textcolor{blue}{La historia de mi vida, honestamente no es una que sea digna de ser leida, al menos no hasta el momento, yo la he disfrutado inmensamente pero no creo que cotenga potencial literario suficiente para valerse por su trama unicamente.}}
+   \texttt{\textcolor{red}{Creo que muchas veces son más intrigantes los pensamientos de los individuos que los hechos dados en la vida relativamente real, pero espero que al menos quien tenga la dicha de leer este breve texto de representación disminuida de mi personalidad, no lo considere un martirio del todo.}}
+   
+\end{document}
